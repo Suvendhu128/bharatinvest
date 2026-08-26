@@ -1,0 +1,6 @@
+{
+  "name": "BharatInvest - Indian Market & Mutual Fund Copilot",
+  "description": "Live Indian stock market & mutual fund analytics, intelligent SIP/goal planning engine, and AI-powered investment research copilot powered by IndianAPI and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
